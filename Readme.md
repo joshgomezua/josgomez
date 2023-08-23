@@ -7,7 +7,7 @@ Hello, I'm Alan, a passionate developer with a strong focus on Ethereum, Solidit
 
 ## Skills
 
-- **Blockchain:** Ethereum, Smart Contracts, Solidity
+- **Blockchain:** Ethereum, Bitcoin, Smart Contracts, Solidity
 - **Full-Stack Development:** React,TypeScript, Node, Golang
 - **Web3 Development:** Integration with Ethereum blockchain
 - **Decentralized Application (DApp) Development**
