@@ -1,4 +1,4 @@
-# Welcome to [Your Name]'s GitHub Profile
+# Welcome to Alan's GitHub Profile
 
 
 ## About Me
@@ -12,7 +12,7 @@ Hello, I'm Alan, a passionate developer with a strong focus on Ethereum, Solidit
 - **Web3 Development:** Integration with Ethereum blockchain
 - **Decentralized Application (DApp) Development**
 - **Smart Contract Development and Auditing**
-- **RESTful APIs:** Building and consuming APIs
+- **RESTful/GraphQL APIs:** Building and consuming APIs
 - **Agile Development:** Collaborative and iterative development
 
 Feel free to explore my repositories to see more of my work.
