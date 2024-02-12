@@ -3,16 +3,9 @@
 
 ## About Me
 
-Hello, I'm Alan, a passionate developer with a strong focus on Ethereum, Solidity, React, and TypeScript. I'm enthusiastic about decentralized technologies and building innovative solutions using blockchain. With experience in DApp and Smart Contracts (Decentralized Application) development, I strive to contribute to the growth of the blockchain ecosystem.
+Hello, I'm Joshua, a passionate developer with a strong focus on Full-Stack Development
 
 ## Skills
 
-- **Blockchain:** Ethereum, Bitcoin, Smart Contracts, Solidity
-- **Full-Stack Development:** React,TypeScript, Node, Golang
-- **Web3 Development:** Integration with Ethereum blockchain
-- **Decentralized Application (DApp) Development**
-- **Smart Contract Development and Auditing**
-- **RESTful/GraphQL APIs:** Building and consuming APIs
-- **Agile Development:** Collaborative and iterative development
-
+- **Full-Stack Development:** React,TypeScript, Node, Java Spring
 Feel free to explore my repositories to see more of my work.
